@@ -76,9 +76,9 @@ Também estou explorando temas como IA, atendimento digital, automação e aplic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuscelinoSR&layout=compact&theme=radical)
 
 ## 🌐 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/seu-link)
+- [LinkedIn](https://www.linkedin.com/in/juscelino-silva-rodrigues-7830672b3)
 - [Portfólio](https://seu-portfolio.com)
-- [E-mail](mailto:seu-email@email.com)
+- [E-mail](mailto:juscelinosilvatit@gmail.com)
 
 ## 🔗 Acesso rápido
 - [Todos os repositórios](https://github.com/JuscelinoSR?tab=repositories)
