@@ -1,78 +1,87 @@
-# Olá! Sou Juscelino Silva Rodrigues 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Olá%2C+eu+sou+Juscelino!;Estudante+de+tecnologia;Construindo+projetos+práticos+e+profissionais" alt="Typing SVG" />
+</div>
 
-**Desenvolvedor em formação, aprendendo com projetos práticos.**
+# 👋 Olá, eu sou Juscelino
 
-Tenho experiência em **gestão comercial e operações**, com atuação em saneamento, atendimento ao cliente, análise de consumo, fiscalização comercial, roteirização, liderança de equipes de campo e acompanhamento de indicadores. Estou conectando essa vivência com dados, tecnologia, inteligência artificial e automação.
+## Sobre mim
+Sou estudante de tecnologia com foco em desenvolvimento web, automação e soluções práticas. 
+Minha trajetória combina experiência em atendimento ao cliente, gestão comercial e organização de processos com aprendizado em programação, projetos pessoais e documentação de código.
 
-Sou iniciante em desenvolvimento e estou construindo minha experiência em **Python, aplicações web e automação**. Meu aprendizado parte de problemas práticos: facilitar a criação de currículos, organizar informações profissionais e apoiar o atendimento e a gestão de pequenos negócios.
+Estou em constante evolução, buscando transformar ideias em produtos úteis, melhorar minha base técnica e consolidar uma presença profissional no GitHub.
 
-Entre meus projetos estão o **Carreira 360**, um **agente de carreira em Python** e o **BeautyJSR**, voltado a salões de beleza. Também estou trabalhando em um projeto de agente de respostas para WhatsApp.
+## 🚀 Habilidades
 
-Uso este GitHub para registrar minha evolução, compartilhar projetos em desenvolvimento e melhorar a qualidade do meu código e da documentação.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Tecnologias presentes nos meus projetos
+### Tecnologias que venho explorando
+- Python
+- JavaScript
+- TypeScript
+- React
+- Vite
+- HTML e CSS
+- Git e GitHub
+- JSON e Markdown
+- Organização de projetos e documentação
+- Persistência local com localStorage
+- UX básica e prototipagem funcional
 
-Estou estudando e praticando estas tecnologias; os projetos abaixo mostram como venho aplicando esse aprendizado.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-Nos projetos web, também exploro **Vite**, componentes com **shadcn/ui** e persistência local com **localStorage**. No agente em Python, trabalho com **JSON**, **Markdown** e execução pelo terminal. O projeto de salão inclui documentação e uma base de integração com **Supabase**, em evolução.
-
-## Projetos em destaque
+## 📌 Projetos em destaque
 
 ### 💇 BeautyJSR — Gestão de salão
-
-MVP de site, agendamento e painel administrativo para salão de beleza. A proposta inclui escolha de serviços e profissionais, preparação de pedidos para WhatsApp e organização de atendimentos e finanças.
-
-O projeto reúne fluxos para clientes e administradores, com cadastro de serviços, personalização do site e exportação de dados. A documentação acompanha a evolução da versão local e da integração com Supabase.
+MVP de site, agendamento e painel administrativo para salão de beleza. A proposta inclui escolha de serviços e profissionais, pedido via WhatsApp e organização do atendimento.
 
 [Explorar o repositório](https://github.com/JuscelinoSR/Projeto-para-sal-o-agendamento-e-sistema-financeiro-integrado)
 
 ### 📄 Carreira 360 — Gerador de currículos
-
-Proposta documentada de aplicação web para organizar informações profissionais, visualizar o currículo em tempo real e exportar em PDF pela impressão do navegador. O escopo inclui cadastro de experiências, formação, competências e projetos, além de importação e exportação em JSON. O repositório público contém a documentação; o código-fonte ainda não está disponível nele.
-
-A proposta prevê análise educativa de critérios ATS e palavras-chave, com armazenamento local no navegador, sem exigir uma conta.
+Projeto de documentação e proposta de aplicação para organizar dados profissionais, visualizar currículo em tempo real e preparar materiais para oportunidades de emprego.
 
 [Explorar o repositório](https://github.com/JuscelinoSR/jsrcurriculo360)
 
 ### 🐍 Agente Carreira 360 — Python
-
-MVP em Python para organizar dados profissionais em JSON e gerar rascunhos de currículo em Markdown, resumo para LinkedIn, posts e mensagens de networking. Também inclui uma análise básica de vagas.
-
-A versão inicial roda pelo terminal, sem dependências externas, e salva os materiais em arquivos locais para revisão antes do uso.
+MVP em Python para organizar informações profissionais, gerar rascunhos de currículo em Markdown, resumos para LinkedIn e materiais de networking.
 
 [Explorar o repositório](https://github.com/JuscelinoSR/agente-carreira-360-python)
 
-## Estudos e laboratórios
-
-Meu perfil também reúne repositórios derivados de materiais de estudo da **DIO**, com temas como Python, IA generativa, atendimento com IA e aplicações de finanças. Eles fazem parte do meu percurso de aprendizado; os créditos dos projetos originais permanecem nos respectivos repositórios.
+## 📚 Estudos e laboratórios
+Meu perfil também reúne experiências de estudo e prática com temas como Python, IA, atendimento e finanças.
 
 - [Trilha Python DIO](https://github.com/JuscelinoSR/trilha-python-dio)
 - [Laboratório de atendimento e vendas com IA](https://github.com/JuscelinoSR/JSR-copiloto-vendas-ia-atendimento-cliente-fys)
 - [Laboratório de aplicação de finanças](https://github.com/JuscelinoSR/dio-lab-vibe-coding-app-financas)
+- [GitHub Quickstart](https://github.com/JuscelinoSR/github-quickstart)
 
-## Meu foco de aprendizado
+## 🎯 Foco de aprendizado
+- Consolidar fundamentos sólidos em Python e desenvolvimento web
+- Desenvolver projetos com foco em resolução de problemas reais
+- Documentar melhor cada processo e exercício prático
+- Evoluir a qualidade do código, estrutura e organização dos projetos
+- Explorar automação, IA aplicada e experiências digitais úteis
 
-- Aprofundar minha base em Python e desenvolvimento web.
-- Documentar projetos com instruções claras e exemplos de uso.
-- Praticar Git, organização de código e testes dos fluxos principais.
-- Evoluir os MVPs a partir de necessidades e feedback de usuários.
-- Explorar automação de atendimento pelo WhatsApp e o uso de IA em soluções práticas.
+## 📊 Estatísticas do GitHub
 
-## Atividade no GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuscelinoSR&show_icons=true&theme=radical)
 
-[![Estrelas nos repositórios públicos](https://img.shields.io/github/stars/JuscelinoSR?style=flat-square&label=Estrelas)](https://github.com/JuscelinoSR?tab=repositories)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuscelinoSR&layout=compact&theme=radical)
 
-[Ver contribuições e atividade no meu perfil](https://github.com/JuscelinoSR#overview)
+## 🔗 Acesso rápido
+- [Todos os repositórios](https://github.com/JuscelinoSR?tab=repositories)
+- [Perfil do GitHub](https://github.com/JuscelinoSR)
 
-## Encontre meus projetos
+> Estou usando o GitHub para registrar minha evolução, compartilhar projetos e evoluir de forma contínua na área de tecnologia.
 
-[Todos os repositórios](https://github.com/JuscelinoSR?tab=repositories)
+---
 
-<!-- Adicionar LinkedIn, portfólio e contato após confirmar os links com Juscelino. -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JuscelinoSR&color=blueviolet" alt="Profile views" />
+</div>
