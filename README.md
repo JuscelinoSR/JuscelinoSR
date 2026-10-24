@@ -1,10 +1,10 @@
 # Juscelino Silva Rodrigues
 
-**Profissional da área comercial em transição para Análise de Dados.**
+**Análise de Dados e Inteligência Artificial aplicada aos negócios.**
 
 Atuo no setor de saneamento, com experiência em indicadores comerciais, análise de consumo e faturamento, planejamento de rotas e acompanhamento de equipes. Quero aplicar esse conhecimento de negócio em análises que apoiem decisões e melhorem a eficiência operacional.
 
-Estou desenvolvendo minha base em **Excel, Power BI, SQL e Python**, com projetos de estudo e documentação do que foi implementado.
+Minha experiência combina gestão comercial e operações com o uso de **IA generativa** para apoiar criação de conteúdo, pesquisa e organização de informações. Estou em transição para Análise de Dados, desenvolvendo minha base em **Excel, Power BI, SQL e Python**.
 
 ## Projetos de dados
 
@@ -15,6 +15,20 @@ Estou desenvolvendo minha base em **Excel, Power BI, SQL e Python**, com projeto
 | [Organizador de informações para IR](https://github.com/JuscelinoSR/organizador-ir-excel) | Organização de recebimentos e informes, validações, revisão de pendências e resumo mensal e anual. | Excel |
 
 Os projetos publicados utilizam exemplos didáticos. O relatório de vendas documenta a origem do material e as adaptações realizadas.
+
+## Experiência prática com Inteligência Artificial
+
+- Elaboração e refinamento de prompts, com instruções de contexto, formato e critérios de revisão.
+- Uso de IA generativa na criação de conteúdo visual e textual para o projeto JSR Fashion AI.
+- Estudo com NotebookLM para organizar fontes, pesquisar temas e planejar conteúdo de marketing.
+- Revisão humana das respostas e atenção à fidelidade das fontes, dos produtos e das informações.
+
+| Projeto | Aplicação e estágio |
+| --- | --- |
+| [IA para marketing de moda masculina](https://github.com/JuscelinoSR/ia-marketing-moda-masculina) | Estudo em andamento com NotebookLM, fontes e revisão crítica para planejamento de conteúdo no TikTok. |
+| [Agente Carreira 360 em Python](https://github.com/JuscelinoSR/agente-carreira-360-python) | MVP de automação que organiza informações profissionais e gera rascunhos para revisão humana. A versão documentada usa Python e modelos de texto. |
+
+Também acompanho o [laboratório de atendimento e vendas com IA](https://github.com/JuscelinoSR/JSR-copiloto-vendas-ia-atendimento-cliente-fys), derivado do material da DIO e utilizado como contexto de estudo.
 
 ## Conhecimentos em desenvolvimento
 
