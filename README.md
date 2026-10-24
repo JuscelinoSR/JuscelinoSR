@@ -1,93 +1,41 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Olá%2C+eu+sou+Juscelino!;Estudante+de+tecnologia;Construindo+soluções+práticas" alt="Typing SVG" />
-</div>
+# Juscelino Silva Rodrigues
 
-# 👋 Olá, eu sou Juscelino
+**Profissional da área comercial em transição para Análise de Dados.**
 
-## Sobre mim
-Sou estudante de tecnologia com interesse em desenvolvimento web, automação e soluções práticas.  
-Minha trajetória combina experiência em atendimento ao cliente, gestão comercial e organização de processos com aprendizado em programação e projetos pessoais.
+Atuo no setor de saneamento, com experiência em indicadores comerciais, análise de consumo e faturamento, planejamento de rotas e acompanhamento de equipes. Quero aplicar esse conhecimento de negócio em análises que apoiem decisões e melhorem a eficiência operacional.
 
-Estou em constante evolução, buscando transformar ideias em soluções úteis, melhorar minha base técnica e construir uma presença profissional no GitHub.
+Estou desenvolvendo minha base em **Excel, Power BI, SQL e Python**, com projetos de estudo e documentação do que foi implementado.
 
-## 🚀 Habilidades
+## Projetos de dados
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Projeto | O que pode ser conferido | Ferramentas |
+| --- | --- | --- |
+| [Relatório de vendas](https://github.com/JuscelinoSR/power_bi_analyst/tree/main/desafios/relatorio-vendas) | Relatório adaptado do material da DIO, com vendas, lucro, países e segmentos. Inclui PBIX e evidências. | Power BI |
+| [Simulador de investimentos em FIIs](https://github.com/JuscelinoSR/simulador-fii-excel) | Projeções de patrimônio e dividendos, distribuição do aporte por perfil e cenários de prazo. | Excel |
+| [Organizador de informações para IR](https://github.com/JuscelinoSR/organizador-ir-excel) | Organização de recebimentos e informes, validações, revisão de pendências e resumo mensal e anual. | Excel |
 
-### Tecnologias em estudo e prática
-- Python
-- JavaScript
-- TypeScript
-- React
-- HTML e CSS
-- Git e GitHub
-- Vite
-- JSON e Markdown
-- Organização de projetos
-- Documentação técnica
-- UI/UX básica
-- Automação e soluções práticas
+Os projetos publicados utilizam exemplos didáticos. O relatório de vendas documenta a origem do material e as adaptações realizadas.
 
-## 📌 Projetos em destaque
+## Conhecimentos em desenvolvimento
 
-### 💇 BeautyJSR
-MVP de site, agendamento e painel administrativo para salão de beleza, com foco em atendimento, organização e uma experiência prática para clientes e administradores.
+- **Excel:** fórmulas, intervalos nomeados, validações e organização de informações.
+- **Power BI:** configuração de visuais, agregações e apresentação de indicadores.
+- **SQL:** estudo de consultas para organizar e analisar dados.
+- **Python:** fundamentos, funções, validação de entradas e testes; evolução para tratamento e análise de dados.
+- **Git e GitHub:** versionamento e documentação dos projetos.
 
-[Explorar o repositório](https://github.com/JuscelinoSR/Projeto-para-sal-o-agendamento-e-sistema-financeiro-integrado)
+## Estudos de programação
 
-### 📄 Carreira 360
-Projeto de documentação e proposta de aplicação para organizar dados profissionais, gerar currículos e apoiar a busca por oportunidades de trabalho.
+Na [Trilha Python DIO](https://github.com/JuscelinoSR/trilha-python-dio), mantenho os exemplos das aulas e os desafios em áreas identificadas.
 
-[Explorar o repositório](https://github.com/JuscelinoSR/jsrcurriculo360)
+O [sistema bancário com funções](https://github.com/JuscelinoSR/trilha-python-dio/tree/main/desafios/sistema-bancario-funcoes) demonstra organização de código, operações com Decimal e 15 testes automatizados. É um exercício de programação.
 
-### 🐍 Agente Carreira 360
-MVP em Python para organizar informações profissionais e gerar rascunhos de currículo, resumo para LinkedIn e materiais para networking.
+## Próximos temas de portfólio
 
-[Explorar o repositório](https://github.com/JuscelinoSR/agente-carreira-360-python)
+Quero desenvolver análises de indicadores comerciais, consumo, faturamento e eficiência de rotas, usando dados fictícios, públicos ou autorizados. Também estou direcionando meus estudos para consultas SQL e análise de dados com Python.
 
-## 📚 Estudos e laboratórios
-Também estou explorando temas como IA, atendimento digital, automação e aplicações práticas por meio de repositórios de estudo.
+## Contato
 
-- [Trilha Python DIO](https://github.com/JuscelinoSR/trilha-python-dio)
-- [Laboratório de atendimento e vendas com IA](https://github.com/JuscelinoSR/JSR-copiloto-vendas-ia-atendimento-cliente-fys)
-- [Laboratório de aplicação de finanças](https://github.com/JuscelinoSR/dio-lab-vibe-coding-app-financas)
-- [GitHub Quickstart](https://github.com/JuscelinoSR/github-quickstart)
-
-## 🎯 Foco de aprendizado
-- Aprofundar meus conhecimentos em Python e desenvolvimento web
-- Criar projetos com foco em solução de problemas reais
-- Melhorar a organização e qualidade dos meus códigos
-- Praticar documentação e apresentação de projetos
-- Explorar automação, IA e experiências digitais úteis
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuscelinoSR&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuscelinoSR&layout=compact&theme=radical)
-
-## 🌐 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/juscelino-silva-rodrigues-7830672b3)
-- [Portfólio](https://seu-portfolio.com)
 - [E-mail](mailto:juscelinosilvatit@gmail.com)
-
-## 🔗 Acesso rápido
 - [Todos os repositórios](https://github.com/JuscelinoSR?tab=repositories)
-- [Perfil do GitHub](https://github.com/JuscelinoSR)
-
-> Estou usando o GitHub para registrar minha evolução, compartilhar projetos e continuar aprendendo na área de tecnologia.
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuscelinoSR&color=blueviolet" alt="Profile views" />
-</div>
